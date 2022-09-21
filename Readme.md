@@ -1,4 +1,4 @@
-# Project-16 Shopify Home Page Clone
+# Project-17 Shopify Home Page Clone  [go-live](https://shopify-clone-p-17.netlify.app/)
 This is simple website of home page. In this project I have only used tailwind css. It is responsive as well.
 
 
